@@ -143,7 +143,7 @@ svg {
 }
 .slide:nth-child(1) .slide__bg {
   left: 0;
-  background-image:url(/images/_DSC0906.JPG);
+  background-image:url(../../images/_DSC0906.JPG);
 }
 .slide:nth-child(1) .slide__overlay-path {
   fill: #BFFFB2;
